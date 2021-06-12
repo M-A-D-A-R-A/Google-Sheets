@@ -34,7 +34,7 @@ function doGet(request) {
 
 # Save Data from Flutter App to Google Sheets
 
-Save data from your flutter app to google sheets works for Android | IOS | WEB.
+Save data from your flutter app to google sheets works for Android | IOS | WEB, this is in FireStore will try on RealTime Database (NoSQl).
 
 # UI
 ![image](https://user-images.githubusercontent.com/56160262/120899960-ec0e2c80-c64f-11eb-810e-8c34289f3713.png)
